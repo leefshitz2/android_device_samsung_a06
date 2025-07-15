@@ -1,6 +1,5 @@
 #
-# Copyright (C) 2025 The Android Open Source Project
-# Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
+# Copyright (C) 2023 The Android Open Source Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -104,11 +103,10 @@ PLATFORM_VERSION := 16.1.0
 # TWRP Configuration
 TW_THEME := portrait_hdpi
 TW_EXTRA_LANGUAGES := true
-TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_SCREEN_BLANK_ON_BOOT := true
-TW_DEVICE_VERSION := TWRP for Galaxy A06 by leefshitz
+TW_DEVICE_VERSION := atoska21
 TW_Y_OFFSET := 50
 TW_H_OFFSET := -50
 TW_NO_LEGACY_PROPS := true
